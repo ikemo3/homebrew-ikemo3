@@ -7,7 +7,7 @@ class Giup < Formula
 
   bottle :unneeded
 
-  depends on "python"
+  depends_on "python"
 
   def install
     bin.install "giup"

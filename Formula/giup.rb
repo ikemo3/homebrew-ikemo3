@@ -5,8 +5,6 @@ class Giup < Formula
   version "0.0.1"
   sha256 "d78a4e8127cd9d589b0ae4eff88e3c8a1f2338022ad501d9c71f8e1dc2b3201c"
 
-  bottle :unneeded
-
   depends_on "python"
 
   def install
